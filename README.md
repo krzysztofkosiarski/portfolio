@@ -1,7 +1,7 @@
 # Portfolio
 
 # O mnie
-Mam na imię Krzysiek, studiuję zarządzanie o specjalizacji - zarządzanie procesem tworzenia aplikacji, na WSZiB w Krakowie. Od zawsze moją pasją były komputery. Teraz chciałbym rowinąć swoje hobby o testowanie połączone z programowaniem. Tak zrodziła się nowa pasja, nauka języka Python i wykożystanie go w testowaniu. 
+Mam na imię Krzysiek, studiuję zarządzanie o specjalizacji - zarządzanie procesem tworzenia aplikacji, na WSZiB w Krakowie. Od zawsze moją pasją były komputery. Teraz chciałbym rowinąć swoje hobby o testowanie połączone z programowaniem. Tak narodziła się nowa pasja, nauka języka Python i wykożystanie go w testowaniu. Moim celem jest rozwijanie wiedzy i umiejętności technicznych w zakresie testowania i programowania. Dlatego regularnie staram się czerpać wiedzę z kursów, stron i kanałów tematycznych. Na tej stronie chciałbym podzielić się całym moim doświadczeniem zdobytym podczas nauki teorii jak i zdobytą praktyką.
 
 # Narzędzia używane w testowaniu
 * TestLink
