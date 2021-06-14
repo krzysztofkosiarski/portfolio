@@ -39,5 +39,6 @@ Mam na imię Krzysiek, studiuję zarządzanie o specjalizacji - zarządzanie pro
 * Agile Testing – Linkedin
 
 # Moja dokumentacja techniczna
+[dokumentacja do ćwiczeń zamieszczona na gogle drive](https://drive.google.com/drive/folders/13w80AFIsg7ylHkx75UN0YehHJcTbec15?usp=sharing)
 
 # Moje projekty
