@@ -5,7 +5,7 @@ Mam na imię Krzysiek, studiuję zarządzanie o specjalizacji - zarządzanie pro
 
 # Narzędzia używane w testowaniu
 * TestLink
-* Jira
+* Jira - w trakcie nauki
 * [mindmeister.com](http://mindmeister.com)
 * [TechSmith Capture](https://www.techsmith.com/jing-tool.html)
 
