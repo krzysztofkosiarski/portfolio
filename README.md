@@ -42,4 +42,4 @@ Mam na imię Krzysiek, studiuję zarządzanie o specjalizacji - zarządzanie pro
 [dokumentacja do ćwiczeń zamieszczona na google drive](https://drive.google.com/drive/folders/13w80AFIsg7ylHkx75UN0YehHJcTbec15?usp=sharing)
 
 # Moje projekty
-[strona ze sklepem stworzona na potrzeby testów i ćwiczeń](test.krzysiektestuje.pl]
+[strona ze sklepem stworzona na potrzeby testów i ćwiczeń](http://test.krzysiektestuje.pl)
