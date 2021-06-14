@@ -11,7 +11,7 @@ Mam na imię Krzysiek, studiuję zarządzanie o specjalizacji - zarządzanie pro
 
 # Techniczne książki
 * R.Smilgin - Zawód tester
-* Aleksandra Kunysz - Kierunek jakość (w trakcie)
+* Aleksandra Kunysz - Kierunek jakość (w trakcie czytania)
 
 # Grupy testerskie
 * [tester oprogramowania - wsparcie na starcie](https://www.facebook.com/groups/417833158717454)
